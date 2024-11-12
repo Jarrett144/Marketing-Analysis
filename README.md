@@ -1,1 +1,1 @@
-# Marketing-Analysis
+ This Power BI dashboard that looks at the imaginary data of customers. The data visualized in this report is fixated on buyer composition, purchase drivers that make customers choose a particular campaign, and the performance of each campaign.
